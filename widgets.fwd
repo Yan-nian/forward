@@ -1,5 +1,5 @@
 {
-	"name": "Widgets Collection",
+	"title": "Widgets Collection",
 	"description": "聚合",
 	"icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
 	"widgets": [
@@ -11,15 +11,6 @@
 			"version": "0.9.4",
 			"author": "匿名",
 			"url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
-		},
-		{
-			"id": "bangumi_charts_tmdb_v3",
-			"title": "Bangumi 热门榜单",
-			"description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
-			"requiredVersion": "0.0.1",
-			"version": "2.0.0",
-			"author": "Autism",
-			"url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
 		},
 		{
 			"id": "imdb",
