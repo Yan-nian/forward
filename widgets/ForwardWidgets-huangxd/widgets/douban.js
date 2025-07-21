@@ -1180,7 +1180,7 @@ WidgetMetadata = {
       cacheDuration: 3600,
     },
   ],
-  version: "1.0.14",
+  version: "1.0.15",
   requiredVersion: "0.0.1",
   description: "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐【五折码：CHEAP.5;七折码：CHEAP】",
   author: "huangxd",
@@ -1355,7 +1355,7 @@ async function fetchImdbItems(scItems) {
     if (!scItem || !scItem.title) {
       return null;
     }
-    let title = cleanTitle(scItem.title);
+    let title = scItem.type === "tv" ? cleanTitle(scItem.title) : scItem.title;
     console.log("title: ", title, " ; type: ", scItem.type);
     const tmdbDatas = await fetchTmdbData(title, scItem.type)
 
