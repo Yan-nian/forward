@@ -1,4 +1,40 @@
 # 更新日志\n
+## [ForwardWidgets-huangxd] - 2025-07-24 03:39:48
+- 仓库: https://github.com/huangxd-/ForwardWidgets
+- 分支: main
+- 新增: 891e4ac29cc20a9b23173543a08f8f0f78e12089
+
+## [ForwardWidgets-2kuai] - 2025-07-24 03:39:48
+- 仓库: https://github.com/2kuai/ForwardWidgets
+- 分支: main
+- 新增: 8b79112a685573a4ffa40c39e5f40850dbadf003
+
+## [ForwardWidgets-pack1r] - 2025-07-24 03:39:48
+- 仓库: https://github.com/pack1r/ForwardWidgets
+- 分支: main
+- 新增: 64224559c8760133446b8beeb338503413174ade
+
+## [Forward-xbzl] - 2025-07-24 03:39:48
+- 仓库: https://github.com/xbzl/Forward
+- 分支: main
+- 新增: dfd071a87b7f3b02d2aefec9fbae9ca072d32c33
+
+## [scripts-bemarkt] - 2025-07-24 03:39:48
+- 仓库: https://github.com/bemarkt/scripts
+- 分支: master
+- 新增: ec7d7627f489bdbb16743cc5092a0447e1ade660
+
+## [ForwardWidgets-Madai-v] - 2025-07-24 03:39:48
+- 仓库: https://github.com/Madai-v/ForwardWidgets
+- 分支: main
+- 新增: 5827c84207950a95d93798f9de298f06864bb155
+
+## [ForwardWidgets-quantumultxx] - 2025-07-24 03:39:48
+- 仓库: https://github.com/quantumultxx/ForwardWidgets
+- 分支: main
+- 新增: ca7e985fb7d72438827ebb5a7c7e7283d97671e9
+
+
 ## [ForwardWidgets-huangxd] - 2025-07-23 03:40:25
 - 仓库: https://github.com/huangxd-/ForwardWidgets
 - 分支: main

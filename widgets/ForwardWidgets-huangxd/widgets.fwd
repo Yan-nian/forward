@@ -1,12 +1,12 @@
 {
   "title": "huangxd's Widgets",
-  "description": "【五折码：CHEAP.5;七折码：CHEAP】A collection of widgets created by huangxd",
+  "description": "【30% off code：CHEAP】A collection of widgets created by huangxd",
   "icon": "https://github.com/huangxd-/ForwardWidgets/raw/main/icon.png",
   "widgets": [
     {
       "id": "douban",
       "title": "豆瓣我看&豆瓣个性化推荐",
-      "description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐【30% off code：CHEAP】",
       "requiredVersion": "0.0.1",
       "version": "1.0.15",
       "author": "huangxd",
@@ -15,7 +15,7 @@
     {
       "id": "trakt",
       "title": "Trakt我看&Trakt个性化推荐",
-      "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐【30% off code：CHEAP】",
       "requiredVersion": "0.0.1",
       "version": "1.0.11",
       "author": "huangxd",
@@ -24,7 +24,7 @@
     {
       "id": "live",
       "title": "直播(电视+网络)",
-      "description": "解析直播订阅链接【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析直播订阅链接【30% off code：CHEAP】",
       "requiredVersion": "0.0.1",
       "version": "1.0.8",
       "author": "huangxd",
@@ -33,7 +33,7 @@
     {
       "id": "yatu",
       "title": "雅图(每日放送+点播排行榜+评分排行榜)",
-      "description": "解析雅图每日放送更新以及各类排行榜【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析雅图每日放送更新以及各类排行榜【30% off code：CHEAP】",
       "requiredVersion": "0.0.1",
       "version": "1.0.6",
       "author": "huangxd",
@@ -42,7 +42,7 @@
     {
       "id": "zhuijurili",
       "title": "追剧日历(今/明日播出、周历、各项榜单、今日推荐)",
-      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、周历、各项榜单、今日推荐等【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、周历、各项榜单、今日推荐等【30% off code：CHEAP】",
       "requiredVersion": "0.0.1",
       "version": "1.0.4",
       "author": "huangxd",
@@ -51,7 +51,7 @@
     {
       "id": "letterboxd",
       "title": "Letterboxd电影爱好者平台",
-      "description": "解析Letterboxd片单内的影片【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析Letterboxd片单内的影片【30% off code：CHEAP】",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
