@@ -1,6 +1,6 @@
 // =============UserScript=============
 // @name         影视聚合查询组件
-// @version      1.3.0
+// @version      1.3.1
 // @description  聚合查询豆瓣/TMDB/IMDB/BGM影视数据
 // @author       阿米诺斯
 // =============UserScript=============
@@ -10,7 +10,7 @@ WidgetMetadata = {
   description: "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
   author: "阿米诺斯",
   site: "https://github.com/quantumultxx/ForwardWidgets",
-  version: "1.3.0",
+  version: "1.3.1",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
   modules: [
@@ -2065,7 +2065,7 @@ async function fetchTmdbData(api, params) {
 }
 
 async function loadTmdbTrendingData() {
-    const response = await Widget.http.get("https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/data/TMDB_Trending.json");
+    const response = await Widget.http.get("https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/data/TMDB_Trending.json");
     return response.data;
 }
 
