@@ -1,6 +1,6 @@
 {
   "name": "forward-auto-updater",
-  "version": "1.2.40",
+  "version": "1.2.41",
   "description": "纯聚合自动更新模块库项目 - 只读模式，不修改源文件",
   "main": "index.js",
   "scripts": {
