@@ -67,6 +67,15 @@
 			"url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
 		},
 		{
+			"id": "letterboxd",
+			"title": "Letterboxd电影爱好者平台",
+			"description": "解析Letterboxd片单内的影片【30% off code：CHEAP】",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.0",
+			"author": "huangxd",
+			"url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
+		},
+		{
 			"id": "ti.bemarkt.podcast",
 			"title": "Podcast",
 			"description": "获取 RSS 播客数据",
@@ -96,7 +105,7 @@
 		{
 			"id": "trakt",
 			"title": "Trakt我看&Trakt个性化推荐",
-			"description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐",
+			"description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐【30% off code：CHEAP】",
 			"requiredVersion": "0.0.1",
 			"version": "1.0.11",
 			"author": "huangxd",
@@ -175,6 +184,15 @@
 			"url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
 		},
 		{
+			"id": "forward.playurl.danmu",
+			"title": "播放链接弹幕",
+			"description": "从指定播放链接和服务器获取弹幕【30% off code：CHEAP】",
+			"requiredVersion": "0.0.2",
+			"version": "1.0.0",
+			"author": "huangxd",
+			"url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_playurl.js"
+		},
+		{
 			"id": "hot_picks",
 			"title": "热门精选",
 			"description": "获取最新热播剧和热门影片推荐",
@@ -213,16 +231,16 @@
 		{
 			"id": "douban",
 			"title": "豆瓣我看&豆瓣个性化推荐",
-			"description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐",
+			"description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐【30% off code：CHEAP】",
 			"requiredVersion": "0.0.1",
-			"version": "1.0.15",
+			"version": "1.0.16",
 			"author": "huangxd",
 			"url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
 		},
 		{
 			"id": "zhuijurili",
-			"title": "追剧日历(今/明日播出、各项榜单、今日推荐)",
-			"description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
+			"title": "追剧日历(今/明日播出、周历、各项榜单、今日推荐)",
+			"description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、周历、各项榜单、今日推荐等【30% off code：CHEAP】",
 			"requiredVersion": "0.0.1",
 			"version": "1.0.4",
 			"author": "huangxd",
@@ -231,7 +249,7 @@
 		{
 			"id": "yatu",
 			"title": "雅图(每日放送+点播排行榜+评分排行榜)",
-			"description": "解析雅图每日放送更新以及各类排行榜",
+			"description": "解析雅图每日放送更新以及各类排行榜【30% off code：CHEAP】",
 			"requiredVersion": "0.0.1",
 			"version": "1.0.6",
 			"author": "huangxd",

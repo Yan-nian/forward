@@ -247,6 +247,22 @@ PlutoTV-美国 (United States)
 年代：所有年代/2020年代/2010年代/2000年代/1990年代/1980年代/1970年代/1960年代/1950年代/1940年代/1930年代/1920年代/1910年代/1900年代/1890年代/1880年代/1870年代
 ```
 
+### 九、播放链接弹幕
+<img src="https://i.mji.rip/2025/08/09/0034f3549373679f895b69e4f29d6293.jpeg" style="width:400px" />
+
+#### 自定义服务器
+从哪个服务器获取弹幕，默认是https://fc.lyz05.cn
+
+#### 各大平台播放链接输入示例
+```shell
+https://www.bilibili.com/video/av170001
+https://www.mgtv.com/b/336727/8087768.html
+https://v.qq.com/x/cover/53q0eh78q97e4d1/x00174aq5no.html
+https://v.youku.com/v_show/id_XNTE5NjUxNjUyOA==.html
+https://www.iqiyi.com/v_bb6gsxzz78.html
+https://ani.gamer.com.tw/animeVideo.php?sn=41645
+```
+
 ### 各插件刷新时间列表
 ```shell
 【豆瓣】
